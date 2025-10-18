@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Example usage of the MCQ Generator.
-"""
-
 import os
 from src.mcq_generator import MCQGenerator
 from src.utils import print_quiz, save_quiz_to_file
