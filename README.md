@@ -14,5 +14,9 @@ A powerful application that generates multiple-choice questions (MCQs) from PDF 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd groq-mcq-generator
+git clone https://github.com/sankarv-ai/mcq_generator_with_rag.git
+cd groq-mcq-generator 
+
+2. pip install requirements.txt
+
+3. python run_mcq.py
