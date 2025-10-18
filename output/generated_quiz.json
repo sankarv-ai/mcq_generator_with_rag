@@ -1,0 +1,52 @@
+{
+  "1": {
+    "mcq": "Who were present in the class on the last day of the French lesson?",
+    "options": {
+      "a": "Only the students",
+      "b": "The mayor, the former postmaster, and several others besides",
+      "c": "M. Hamel and Hauser only",
+      "d": "The new master"
+    },
+    "correct": "b"
+  },
+  "2": {
+    "mcq": "What was the order that came from Berlin?",
+    "options": {
+      "a": "To teach only French in the schools of Alsace and Lorraine",
+      "b": "To teach only German in the schools of Alsace and Lorraine",
+      "c": "To stop teaching in the schools of Alsace and Lorraine",
+      "d": "To teach both French and German in the schools of Alsace and Lorraine"
+    },
+    "correct": "b"
+  },
+  "3": {
+    "mcq": "What did Hauser bring to the class?",
+    "options": {
+      "a": "A new book",
+      "b": "An old primer, thumbed at the edges",
+      "c": "A pencil",
+      "d": "A chair"
+    },
+    "correct": "b"
+  },
+  "4": {
+    "mcq": "When was the new master supposed to arrive?",
+    "options": {
+      "a": "The day before",
+      "b": "The same day",
+      "c": "Tomorrow",
+      "d": "Next week"
+    },
+    "correct": "c"
+  },
+  "5": {
+    "mcq": "How did the speaker feel when M. Hamel announced that it was the last French lesson?",
+    "options": {
+      "a": "Happy",
+      "b": "Indifferent",
+      "c": "Surprised and sad, like a thunderclap",
+      "d": "Angry"
+    },
+    "correct": "c"
+  }
+}
