@@ -1,4 +1,4 @@
-# Groq MCQ Generator
+# MCQ Generator with RAG
 
 A powerful application that generates multiple-choice questions (MCQs) from PDF documents using Groq's Llama model and LangChain.
 
@@ -15,7 +15,7 @@ A powerful application that generates multiple-choice questions (MCQs) from PDF 
 1. Clone the repository:
 ```bash
 git clone https://github.com/sankarv-ai/mcq_generator_with_rag.git
-cd groq-mcq-generator
+cd mcq_generator_with_rag
 ``` 
 2. Install the required LIbraries
 ```bash
