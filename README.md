@@ -1,8 +1,8 @@
 # MCQ Generator with RAG
 
-A powerful application that generates multiple-choice questions (MCQs) from PDF documents using Groq's Llama model and LangChain.
+In this project it will generates multiple-choice questions MCQ's from PDF documents using Groq's Llama model and LangChain.
 
-## Features
+## Project Features
 
 - Extract text from PDF documents
 - Generate MCQs using Groq's Llama 3.3 70B model
