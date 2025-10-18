@@ -14,7 +14,7 @@ def save_quiz_to_file(quiz: Dict[str, Any], filename: str) -> None:
 
 def print_quiz(quiz: Dict[str, Any]) -> None:
     """
-    Pretty print the generated quiz.
+    print the generated quiz.
     
     Args:
         quiz: Generated quiz dictionary
