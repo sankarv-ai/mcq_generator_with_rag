@@ -22,7 +22,10 @@ cd groq-mcq-generator
 pip install -r requirements.txt
 ```
 3. Create a Folder named data and placed your pdf file inside that folder
-4. To run the program
+```bash
+And Provide the pdf relative path in run_mcq.py file
+```
+5. To run the program
 ```bash
 python run_mcq.py
 ```
