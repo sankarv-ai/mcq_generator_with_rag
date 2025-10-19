@@ -1,14 +1,26 @@
 # MCQ Generator with RAG
 
-In this project it will generates multiple-choice questions MCQ's from PDF documents using Groq's Llama model and LangChain.
+A powerful AI-powered application that automatically generates multiple-choice questions (MCQs) from educational documents using Retrieval-Augmented Generation (RAG) and Groq's Llama model.
 
 ## Project Features
 
-- Extract text from PDF documents
-- Generate MCQs using Groq's Llama 3.3 70B model
-- Vector-based retrieval for context-aware question generation
-- Configurable question count and difficulty levels
-- JSON output format for easy integration
+-  PDF Processing: Extract text from PDF textbooks and documents
+-  AI-Powered Generation: Uses Groq's Llama 3.3 70B model for intelligent question generation
+-  RAG Implementation: Retrieval-Augmented Generation for context-aware question creation
+-  Customizable Quizzes: Control number of questions, subject, and difficulty level
+-  Structured Output: Returns well-formatted JSON with questions, options, and answers
+-  High Performance: Leverages Groq's lightning-fast inference speeds
+
+## Tech Stack
+
+| Component | Technology |
+|-----------|------------|
+| **AI Model** | Groq + Llama-3.3-70b-versatile |
+| **Framework** | LangChain |
+| **Vector Store** | ChromaDB |
+| **Embeddings** | Sentence Transformers (all-MiniLM-L6-v2) |
+| **Text Processing** | PyPDF, LangChain Text Splitters |
+| **Language** | Python 3.8+ |
 
 ## Installation
 
